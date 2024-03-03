@@ -1,0 +1,13 @@
+.hero-section {
+    background-color: red !important;
+    
+    background-size: cover;
+    background-position: center;
+    color: #ffffff; /* Text color */
+    padding: 100px 0; /* Adjust padding as needed */
+    text-align: center;
+}
+.title-color
+{
+    color:red !important;
+}
